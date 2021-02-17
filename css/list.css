@@ -1,0 +1,43 @@
+.list {
+    margin: 30px auto;
+}
+
+.list-item {
+    padding: 15px;
+    margin: 15px auto;
+    background-color: rgba(0, 0, 0, 0.432);
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    position: relative;
+}
+
+.instagram {
+    border-bottom: 4px solid rgb(231, 62, 217);
+}
+
+.facebook {
+    border-bottom: 4px solid rgb(20, 68, 224);
+}
+
+.linkedin {
+    border-bottom: 4px solid rgb(26, 61, 219);
+}
+
+.spotify-item {
+    border-bottom: 4px solid rgb(33, 219, 48);
+}
+
+.list-item h3 {
+    margin: 0 20px;
+    font-weight: 400;
+}
+
+.list-item span {
+    font-size: 40px;
+    color: #fff;
+}
+
+.list-item:hover {
+    opacity: .7;
+}

@@ -1,0 +1,25 @@
+.info {
+    margin: 0 20px;
+}
+
+.info h2 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.info span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.info span i {
+    margin: 15px 5px;
+}
+
+.info a {
+    color: #fff;
+}
+
+.info a:hover {
+    opacity: .7;
+}
